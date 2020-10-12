@@ -9,7 +9,7 @@
 | GitBash| ```https://git-scm.com/downloads```|
 | Node.js | ```https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi``` |
 | Flask | ```pip install flask``` |
-| Heroku Cli | ```curl https://cli-assets.heroku.com/install-ubuntu.sh | sh``` |
+| Heroku Cli | ```https://devcenter.heroku.com/articles/heroku-cli```|
  
 
 ### Follow simple steps to used this script:
@@ -22,7 +22,7 @@ git clone https://github.com/devil-cyber/Heroku-Automatic-Deployment
 ```sh
 eg. C:\Users\ASUS
 ```
-- Then after add the path upto bin directory to enovornment variable
+- Then after add the path upto bin directory to enivornment variable
   ```sh
   C:\Users\ASUS\heroku_deployment\bin
   ```
