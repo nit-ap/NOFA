@@ -15,7 +15,7 @@
 ### Follow simple steps to used this script:
 - clone this repository
 ```
-git clone https://github.com/devil-cyber/Heroku-Automatic-Deployment
+ git clone https://github.com/devil-cyber/NOFA
 
 ```
 - After this place this repository in in your root user directory
